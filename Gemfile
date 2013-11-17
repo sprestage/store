@@ -46,4 +46,6 @@ end
 
 group :test do
   gem 'minitest'
+  gem 'capybara'
+  gem 'turn'
 end
