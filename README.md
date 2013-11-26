@@ -1,3 +1,5 @@
+[![Dependency Status](https://gemnasium.com/sprestage/store.png)](https://gemnasium.com/sprestage/store)
+
 Store app
 =======
 This is a little store application created according to the steps given in the RailsCast on Minitest.  The purpose
