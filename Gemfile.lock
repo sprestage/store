@@ -60,7 +60,7 @@ GEM
     mini_portile (0.5.2)
     minitest (4.7.5)
     multi_json (1.8.2)
-    nokogiri (1.6.0)
+    nokogiri (1.6.1)
       mini_portile (~> 0.5.0)
     polyglot (0.3.3)
     rack (1.5.2)
@@ -107,12 +107,12 @@ GEM
     treetop (1.4.15)
       polyglot
       polyglot (>= 0.3.1)
-    turbolinks (2.0.0)
+    turbolinks (2.1.0)
       coffee-rails
     turn (0.9.6)
       ansi
     tzinfo (0.3.38)
-    uglifier (2.3.3)
+    uglifier (2.4.0)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
     xpath (2.0.0)
