@@ -1,4 +1,3 @@
-[![Dependency Status](https://gemnasium.com/sprestage/store.png)](https://gemnasium.com/sprestage/store)
 
 Store app
 =======
